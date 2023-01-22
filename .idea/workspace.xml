@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b000d9bd-f12e-40a8-b877-c3c8b675e41c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/All-Recipes.html" beforeDir="false" afterPath="$PROJECT_DIR$/All-Recipes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nicepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/nicepage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2KeIVPnQdQ9PyeJqpkvP0fxZtnA" />
   <component name="ProjectViewState">
@@ -44,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674328645016</updated>
-      <workItem from="1674328646108" duration="13318000" />
+      <workItem from="1674328646108" duration="14670000" />
     </task>
     <servers />
   </component>
